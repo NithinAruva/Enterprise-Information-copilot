@@ -7,6 +7,7 @@ This pipeline leverages advanced techniques for processing and interacting with 
 ## Technologies Used
 
 - **Programming Language**: Python
+- **Development Platform**: DataBricks
 - **AI Framework**: Databricks Mosaic AI
 - **Cloud Platform**: Azure
 - **Front-end Framework**: AngularJS
