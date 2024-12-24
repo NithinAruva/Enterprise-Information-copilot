@@ -8,8 +8,8 @@ This pipeline leverages advanced techniques for processing and interacting with 
 
 - **Programming Language**: Python
 - **Development Platform**: DataBricks
-- **AI Framework**: Databricks Mosaic AI
-- **Cloud Platform**: Azure
+- **AI Framework**: Databricks Mosaic AI, Langchain
+- **Cloud Platform**: Microsoft Azure
 - **Front-end Framework**: AngularJS
 - **Search and Vector Database**:  Delta Table
 - **Deployment Tools**: Docker
